@@ -7,3 +7,16 @@
 .green {
     color: green;
 }
+
+.red,
+.green,
+.blue {
+    font-size: 28px;
+    text-align: center;
+}
+
+.head {
+    font-size: 36px;
+    text-align: center;
+    text-decoration: underline;
+}
