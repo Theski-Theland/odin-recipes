@@ -1,12 +1,14 @@
 .title {
-    text-align: center;
+    text-align: left;
 
 }
 
 .line {
     color: red;
-    font-size: 22px;
+    font-size: 26px;
     font-weight: bold;
+    display: block;
+    width: 800px;
 }
 
 .head,
