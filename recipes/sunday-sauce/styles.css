@@ -5,16 +5,16 @@
     text-align: center;
 }
 
-.line {
-    color: red;
-    font-size: 26px;
-    font-weight: bold;  
-}
-
 .head,
 .title {
     font-weight: bold;
     text-decoration: underline;
+}
+
+.line {
+    color: red;
+    font-size: 26px;
+    font-weight: bold;  
 }
 
 .head {
