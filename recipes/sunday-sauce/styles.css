@@ -2,7 +2,6 @@
 .line,
 .text,
 .title {
-    display: block;
     width: 900px;
     margin-left: auto;
     margin-right: auto;
